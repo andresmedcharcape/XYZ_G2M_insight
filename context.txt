@@ -1,0 +1,11 @@
+La empresa XYZ está planeando invertir en la industria de cabinas, según su estrategia 
+(G2M: Go to Market - Es un plan de acción que permite plasmar la ruta de los productos: 
+elaboracion, transporte, distribución, ventas y finalmente cuando llega al consumidor)
+
+Se deberá presentar unas diapositivas al ejecutivo XYZ
+
+Data:
+Cab_Data.csv: este archivo incluye detalles de la transacción para 2 compañías de taxis
+Customer_ID.csv : esta es una tabla de mapeo que contiene un identificador único que vincula los detalles demográficos del cliente
+Transaction_ID.csv: esta es una tabla de mapeo que contiene la transacción al modo de pago y mapeo del cliente
+City.csv: este archivo contiene una lista de ciudades de EE. UU., su población y el número de usuarios de taxis.
